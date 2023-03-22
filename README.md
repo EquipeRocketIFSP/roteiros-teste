@@ -2,7 +2,7 @@
 
 ## Modelo
 
-|Cenário|Caso de teste|Roteiro|Resultado Esperado|Sucesso|
+|Cenário|Caso de teste|Roteiro|Resultado Esperado|Resultado|
 |---|---|---|---|---|
 |Login de usuário|Login com sucesso|1. Ao acessar a URL de login (<host>:3000/login)|1. Exibir a tela de login||
 |Login de usuário|Login com sucesso|1.2 Inserir email: cartvet@gmail.com|1.2 devem existir campos para inserção de email||
