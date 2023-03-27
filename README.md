@@ -22,3 +22,5 @@
 |Login de usuário|Usuário cadastrado realizando reset|2. Selecionar o botão "Esqueci minha senha"|2. Apresentar mensagem: "Instruções encaminhados para o email cadastrado"||
 |Login de usuário|Usuário cadastrado realizando reset|2.1 Observar banner com mensagem de envio de email com instruções para reset|2.1 Verificar recebimento de email com instruções para executar o reset.||
 |Login de usuário|Usuário cadastrado realizando reset|3. Abrir o link e definir uma nova senha|3. Observar exibição de banner verde com mensagem de alteração de senha com sucesso. A tela será redirecionada para a tela de login. Observar que o banner persiste sendo exibido.||
+
+
